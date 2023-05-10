@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/project-6-initial/aggregator/aggregator.iml" filepath="$PROJECT_DIR$/project-6-initial/aggregator/aggregator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-6-initial/dictionary/dictionary.iml" filepath="$PROJECT_DIR$/project-6-initial/dictionary/dictionary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project-6-initial.iml" filepath="$PROJECT_DIR$/.idea/project-6-initial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/project-6-initial/project6.iml" filepath="$PROJECT_DIR$/project-6-initial/project6.iml" />
+    </modules>
+  </component>
+</project>
